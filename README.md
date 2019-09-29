@@ -1,6 +1,9 @@
 Designing Data-Intensive Applications
 =====================================
 
+- I keep track of papers I read with a checkmark ✅.
+- Papers I found to be particularly remarkable are tagged with a star ⭐️
+
 Literature References
 ---------------------
 
